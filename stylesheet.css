@@ -1,6 +1,7 @@
 html { 
   background: url(images/reflector.JPG) no-repeat center center fixed; 
   font-family: 'Reenie Beanie', cursive;
+  font-size: 48px;
   text-align: center;
   color: white;
 }
