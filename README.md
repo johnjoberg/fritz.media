@@ -1,8 +1,5 @@
-# fritzhead
-A Short History of a Dog named Fritz
+# a canvass to show design and style in my eyes
 
-Will utilize this repository as a demonstration of my ability to write, comprehend and design a simple website utilizing HTML and CSS languages.
-
-Cheers, and hope you like my website I've dedicated to my dawg, Fritz.
+I am in pursuit of a new career as a software design/front end specialist. I will use this as springboard to demonstrate design concepts and ideas. 
 
 JJB
