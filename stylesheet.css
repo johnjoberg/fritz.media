@@ -1,37 +1,4 @@
 html {
-  font-family: 'Josefin Sans', sans-serif;
-  background-color: rgb(86,220,255);
+  background-size: cover;
 }
 
-#headerimage {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  box-sizing: border-box;
-  width:100%;
-  height: 100%;
-  object position: top;
-}
-
-#p3image {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  box-sizing: border-box;
-  width: 100%;
-  height: 100%;
-  padding: 10px;
-  object position: bottom;
-}
-
-h1 {
-  text-align: center;
-  color: rosybrown;
-  padding: 10px;
-}
-
-h2, p {
-  text-align: center;
-  color: saddlebrown;
-  padding: 10px;
-}
