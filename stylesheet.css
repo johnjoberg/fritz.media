@@ -1,9 +1,9 @@
 html { 
-  background: url(images/reflector.JPG);
+  background: url(images/pafko.JPG);
   font-family: 'Reenie Beanie', cursive;
-  font-size: 48px;
+  font-size: 52px;
   text-align: center;
-  color: white;
+  color: #00008B;
 }
 
 img.reflector {
