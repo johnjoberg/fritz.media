@@ -5,10 +5,12 @@ html {
   color: #00008B;
 }
 
-img {
-  /* Set rules to fill background */
-  vertical-align: middle;
-  border-style: none;
+body {
+  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 
